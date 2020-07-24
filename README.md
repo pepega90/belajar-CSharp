@@ -1,5 +1,4 @@
-# belajar-CSharp
-from beginner to advanced
+# belajar-CSharp from beginner to advanced
 
 Ini adalah beberapa source yang saya buat untuk teman-teman pemula yang ingin belajar bahasa pemgrograman ```C#```
 
