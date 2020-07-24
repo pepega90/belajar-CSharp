@@ -6,8 +6,4 @@
     <StartupObject>BelajarCS.FuncDelegate.Program</StartupObject>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Common\Common.csproj" />
-  </ItemGroup>
-
 </Project>
